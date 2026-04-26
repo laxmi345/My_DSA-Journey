@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/laxmi345/My_DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/laxmi345/My_DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/laxmi345/My_DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0039-combination-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/laxmi345/My_DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
