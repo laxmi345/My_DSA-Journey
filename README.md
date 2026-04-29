@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/laxmi345/My_DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/laxmi345/My_DSA-Journey/tree/master/0040-combination-sum-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/laxmi345/My_DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/laxmi345/My_DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/laxmi345/My_DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,4 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/laxmi345/My_DSA-Journey/tree/master/0037-sudoku-solver) |
+| [2596-check-knight-tour-configuration](https://github.com/laxmi345/My_DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/laxmi345/My_DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/laxmi345/My_DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
