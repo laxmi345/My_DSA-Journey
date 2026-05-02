@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/laxmi345/My_DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/laxmi345/My_DSA-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/laxmi345/My_DSA-Journey/tree/master/0225-implement-stack-using-queues) |
+| [1441-build-an-array-with-stack-operations](https://github.com/laxmi345/My_DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/laxmi345/My_DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/laxmi345/My_DSA-Journey/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/laxmi345/My_DSA-Journey/tree/master/0090-subsets-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/laxmi345/My_DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/laxmi345/My_DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/laxmi345/My_DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/laxmi345/My_DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2596-check-knight-tour-configuration](https://github.com/laxmi345/My_DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
