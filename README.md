@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/laxmi345/My_DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/laxmi345/My_DSA-Journey/tree/master/0037-sudoku-solver) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/laxmi345/My_DSA-Journey/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/laxmi345/My_DSA-Journey/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/laxmi345/My_DSA-Journey/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/laxmi345/My_DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/laxmi345/My_DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/laxmi345/My_DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
