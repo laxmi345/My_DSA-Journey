@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/laxmi345/My_DSA-Journey/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/laxmi345/My_DSA-Journey/tree/master/0169-majority-element) |
+| [0746-min-cost-climbing-stairs](https://github.com/laxmi345/My_DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1441-build-an-array-with-stack-operations](https://github.com/laxmi345/My_DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/laxmi345/My_DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/laxmi345/My_DSA-Journey/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/laxmi345/My_DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
