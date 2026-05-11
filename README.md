@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/laxmi345/My_DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/laxmi345/My_DSA-Journey/tree/master/0131-palindrome-partitioning) |
 | [0746-min-cost-climbing-stairs](https://github.com/laxmi345/My_DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 ## Matrix
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/laxmi345/My_DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/laxmi345/My_DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/laxmi345/My_DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 ## Counting
 |  |
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/laxmi345/My_DSA-Journey/tree/master/0456-132-pattern) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/laxmi345/My_DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
