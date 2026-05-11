@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/laxmi345/My_DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/laxmi345/My_DSA-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/laxmi345/My_DSA-Journey/tree/master/0225-implement-stack-using-queues) |
+| [0456-132-pattern](https://github.com/laxmi345/My_DSA-Journey/tree/master/0456-132-pattern) |
 | [1441-build-an-array-with-stack-operations](https://github.com/laxmi345/My_DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/laxmi345/My_DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/laxmi345/My_DSA-Journey/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/laxmi345/My_DSA-Journey/tree/master/0169-majority-element) |
+| [0456-132-pattern](https://github.com/laxmi345/My_DSA-Journey/tree/master/0456-132-pattern) |
 | [0746-min-cost-climbing-stairs](https://github.com/laxmi345/My_DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1441-build-an-array-with-stack-operations](https://github.com/laxmi345/My_DSA-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/laxmi345/My_DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/laxmi345/My_DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/laxmi345/My_DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0456-132-pattern](https://github.com/laxmi345/My_DSA-Journey/tree/master/0456-132-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/laxmi345/My_DSA-Journey/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/laxmi345/My_DSA-Journey/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/laxmi345/My_DSA-Journey/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
