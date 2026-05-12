@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/laxmi345/My_DSA-Journey/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/laxmi345/My_DSA-Journey/tree/master/0242-valid-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/laxmi345/My_DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/laxmi345/My_DSA-Journey/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/laxmi345/My_DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/laxmi345/My_DSA-Journey/tree/master/0242-valid-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/laxmi345/My_DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/laxmi345/My_DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/laxmi345/My_DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/laxmi345/My_DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/laxmi345/My_DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
