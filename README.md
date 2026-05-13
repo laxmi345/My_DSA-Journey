@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/laxmi345/My_DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/laxmi345/My_DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/laxmi345/My_DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/laxmi345/My_DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/laxmi345/My_DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/laxmi345/My_DSA-Journey/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/laxmi345/My_DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
