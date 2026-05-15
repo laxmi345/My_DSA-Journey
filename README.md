@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/laxmi345/My_DSA-Journey/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/laxmi345/My_DSA-Journey/tree/master/0169-majority-element) |
+| [0327-count-of-range-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0456-132-pattern](https://github.com/laxmi345/My_DSA-Journey/tree/master/0456-132-pattern) |
 | [0746-min-cost-climbing-stairs](https://github.com/laxmi345/My_DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/laxmi345/My_DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/laxmi345/My_DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/laxmi345/My_DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0327-count-of-range-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0456-132-pattern](https://github.com/laxmi345/My_DSA-Journey/tree/master/0456-132-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/laxmi345/My_DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/laxmi345/My_DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laxmi345/My_DSA-Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/laxmi345/My_DSA-Journey/tree/master/0169-majority-element) |
+| [0327-count-of-range-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0327-count-of-range-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0456-132-pattern](https://github.com/laxmi345/My_DSA-Journey/tree/master/0456-132-pattern) |
 ## Math
 |  |
@@ -203,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/laxmi345/My_DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
