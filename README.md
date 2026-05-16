@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/laxmi345/My_DSA-Journey/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/laxmi345/My_DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/laxmi345/My_DSA-Journey/tree/master/0131-palindrome-partitioning) |
 | [0746-min-cost-climbing-stairs](https://github.com/laxmi345/My_DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/laxmi345/My_DSA-Journey/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/laxmi345/My_DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 ## Prefix Sum
 |  |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/laxmi345/My_DSA-Journey/tree/master/0327-count-of-range-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/laxmi345/My_DSA-Journey/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
